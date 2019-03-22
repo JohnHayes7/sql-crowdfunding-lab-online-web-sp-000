@@ -25,3 +25,4 @@ INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUE
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("New Film", "Entertainment", 300, "Aug 23 2019", "Aug 23 2029");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Paint School", "Community", 1000, "Feb 1 2019", "Aug 1 2019");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("New Playground", "Community", 10000, "Jan 1 2019", "Dec 31 2019");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Class Trip", "Education", 5000, "Feb 1 2019", "May 1 2019");
